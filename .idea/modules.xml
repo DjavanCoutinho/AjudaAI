@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AjudaAi.iml" filepath="$PROJECT_DIR$/AjudaAi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AjudaAI.iml" filepath="$PROJECT_DIR$/AjudaAI.iml" />
+      <module fileurl="file://C:\Users\victo\OneDrive\Documentos\Projeto Disp. Movel\AjudaAI\AjudaAi.iml" filepath="C:\Users\victo\OneDrive\Documentos\Projeto Disp. Movel\AjudaAI\AjudaAi.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\victo\OneDrive\Documentos\Projeto Disp. Movel\AjudaAI\app\app.iml" filepath="C:\Users\victo\OneDrive\Documentos\Projeto Disp. Movel\AjudaAI\app\app.iml" />
     </modules>
   </component>
 </project>
